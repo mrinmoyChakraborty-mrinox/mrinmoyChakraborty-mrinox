@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mrinmoy!
 
-<!--
-**mrinmoyChakraborty-mrinox/mrinmoyChakraborty-mrinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer exploring **Python**, **Flask**.  
+Currently learning how to build real-world projects — one step at a time 🚀
 
-Here are some ideas to get you started:
+### 🌱 What I'm working on
+- Learning full-stack development basics  
+- Building small projects using Python + SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` • `Flask (basic) ` • `HTML (basic)` • `CSS (basic)` • `JavaScript (basic)` • `MySQL`
+
+### 📫 Connect with me
+Feel free to reach out — I love discussing projects and new ideas!  
+
+---
+
+> “Small steps every day lead to big results.”  
+> — Keep coding, keep growing 💻
