@@ -14,6 +14,12 @@ Currently learning how to build real-world projects — one step at a time 🚀
 Feel free to reach out — I love discussing projects and new ideas!  
 
 ---
+### Github Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mrinmoyChakraborty-mrinox&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mrinmoyChakraborty-mrinox&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrinmoyChakraborty-mrinox&layout=compact&theme=github_dark)
+
+---
 
 > “Small steps every day lead to big results.”  
 > — Keep coding, keep growing 💻
